@@ -1,0 +1,18 @@
+{
+  "name": "gulp-memory-poc",
+  "version": "0.0.1",
+  "description": "Demo app which calculates size of npm packages with 3rd party dependencies",
+  "main": "gulpfile.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gulp": "~3.9.1",
+    "gulp-help": "~1.6.1",
+    "gulp-git": "~1.11.0",
+    "gulp-size": "~2.1.0",
+    "gulp-shell": "~0.5.2",
+    "gulp-file": "~0.3.0",
+    "gulp-util": "~3.0.7",
+    "merge-stream": "~1.0.0",
+    "del": "~2.2.2"
+  }
+}

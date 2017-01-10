@@ -1,0 +1,49 @@
+# Project specific
+.idea
+typings/
+node_modules/
+bower_components/
+test/unit/dist
+dist/
+docs/api
+docs/examples/**/*.js
+docs/test
+.npmrc
+.bowerrc
+*.iml
+*.old.*
+package.zip
+coverage/
+
+# VS Code
+.settings
+
+# OSX stuff
+.DS_Store
+.VolumeIcon.icns
+.fseventsd
+Icon
+.apdisk
+
+# SASS Cache Directory
+.sass-cache
+
+# everything else, hat tip - https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore
+
+# Logs
+logs
+*.log
+wget-log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# node-waf configuration
+.lock-wscript
+
+#vim swap files
+*.swp
+*.swo
+*.bak
