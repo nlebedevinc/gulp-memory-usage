@@ -11,7 +11,7 @@ const merge = require('merge-stream');
 // node deps
 const fs = require('fs');
 const path = require('path');
-const utils = require('./app/utils');
+const utils = require('./lib/utils');
 
 var appOptions = {};
 const config = require('./gulp.config');
