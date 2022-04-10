@@ -9,7 +9,7 @@
     "gulp-help": "~1.6.1",
     "gulp-git": "~1.11.0",
     "gulp-size": "~2.1.0",
-    "gulp-shell": "~0.5.2",
+    "gulp-shell": "~0.7.1",
     "gulp-file": "~0.3.0",
     "gulp-util": "~3.0.7",
     "merge-stream": "~1.0.0",
